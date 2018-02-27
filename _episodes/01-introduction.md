@@ -1,8 +1,8 @@
 ---
 title: "First Workshop: spot the difference"
 teaching: 10
-exercises: 30
-questions: 15
+exercises: 20
+questions:
 - "How do we spot different statements?"
 objectives:
 - "Learn to spot different types of statements"
