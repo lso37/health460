@@ -15,7 +15,7 @@ This is why we call it critical reading of papers.
 
 Lesson 1: Identifying Arguments
 
-You will read five passages in this section; each passage will be longer and more complex than the previous one.
+You will read three passages in this section; each passage will be longer and more complex than the previous one.
 After you have read each passage, identify the concluding statement and a reason behind the concluding statement.
 
 Write the concluding statement and the reasoning in the worksheet. You can copy paste from the webpage if you want.
