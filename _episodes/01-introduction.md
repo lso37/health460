@@ -1,9 +1,10 @@
 ---
-title: "First Workshop: spot the difference"
+title: "Workshop 1: Critical Reading of Health Literature"
 teaching: 10
 exercises: 20
 questions:
 - "How do we spot different statements?"
+- "How do we differentiate between arguments and non-arguments?"
 objectives:
 - "Learn to spot different types of statements"
 - "Learn to spot arguments from non-arguments"
@@ -25,6 +26,7 @@ keypoints:
 - Arguments are statements with reasoning and persuasion
 - Explanations are statements with reasoning but does not include persuasion
 
-> ## Where shall we locate each element?
+> ## Hint: how can we locate each element?
 > Look for indicator words. Indicator words are the words or expressions such as "Given", "Given that", "Because", and similar words that give away that a reason is being presented. Also look for emotion laden information but no rationale or reasoning being provided
+> Look for a conclusion; if there is a conclusion, then there is an explanation or an argument.
 {: .callout}
