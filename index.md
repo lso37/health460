@@ -3,7 +3,8 @@ layout: lesson
 root: .
 permalink: index.html  # Is the only page that don't follow the partner /:path/index.html
 ---
-## About
+## Introduction
+
 In this workshop, you will learn two lessons:
 
 1. You will learn to differentiate between arguments and non-arguments
