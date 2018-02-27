@@ -16,14 +16,19 @@ This is why we call it critical reading of papers.
 
 Lesson 1: Identifying Arguments
 
-You will read three passages in this section; each passage will be longer and more complex than the previous one.
-After you have read each passage, identify the concluding statement and a reason behind the concluding statement.
+You will read a passage in this section; after you have read the passage, identify the concluding statement and a reason behind the concluding statement.
 
 Write the concluding statement and the reasoning in the worksheet. You can copy paste from the webpage if you want.
 
 Lesson 2: Constructing a standard form
 
-You will read three passages, that would be in the form of abstracts of three articles published recently. In the form (standard_form.txt), fill in the headings: the final conclusion, the explicit premises, the implicit premises, & intermediate conclusions.
+You will read a passage. In the form (standard_form.txt), fill in the headings: the final conclusion, the explicit premises, the implicit premises, & intermediate conclusions.
+
+Lesson 3: Identify the epidemiological study designs
+
+You will read three abstracts and will discuss the study design, and whether you can re-design the study. Use the study_design.docx form you downloaded to work with it. 
+
+Check the setup link to download the worksheets. 
 
 > ## Prerequisites
 > You must understand the concepts of identifying arguments and explanations in passages of text
