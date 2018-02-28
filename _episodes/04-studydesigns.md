@@ -23,6 +23,54 @@ keypoints:
 4. Cohort studies
 5. Randomised Controlled Trials (Intervention studies)
 
+## Case series
+- Description or summary of cases
+- Provides description of exposure OR outcomes
+- Does not have any comparison group to base analysis
+
+## Case control study design
+- Start with identifying people with and without disease
+- cases
+- controls
+- Likelihood or odds of exposure for cases
+- Likelihood or odds of exposure for controls
+- The comparison of odds is Odds Ratio
+- Open to recall bias
+- Open to selection bias
+- Can study multiple exposures for rare diseases
+- rare disease: prevalence 1 per 10,000 or less
+- Use logistic regression to assess
+
+## Cross sectional Surveys
+- Over a fixed period of time or a fixed territory
+- Individuals surveyed or measured as a cross-section
+- Used for finding prevalence of a condition or exposure
+- Exposure and outcomes are assessed at the same time
+- Measures of association using cross-sectional surveys are reported as prevalence odds ratio
+- Open to recall bias
+- Healthy worker effect
+
+## Cohort studies
+- Start with identifying individuals on the basis of their exposure
+- Exposed and non-exposed cohorts
+- Follow up over time
+- Study the emergence of outcomes for both cohorts
+- Use survival analysis and proportional hazards model to study
+- Effect measure is given by Hazard Ratio or Risk Ratio
+- Can study multiple outcomes for a fixed set of exposures
+- Time consuming and expensive
+- Can establish that causes would have preceded the emergence of outcomes
+
+## Randomised Controlled trials
+- Experimental study design within health
+- Randomisation = use random numbers table to assign
+- Random numbers to assign people with and without intervention
+- Follow up individuals with and without intervention
+- Study the emergence of outcomes for both groups
+- Analysis of variance is used to analyse RCTs
+- Time consuming and expensive
+- Limited generalisability or external validity
+
 ## Challenge
 In this challenge, read the following abstract(s) and identify what study design did the authors use to conduct their study. Write the study aim. Can you think of another way to study the same phenomenon? The article is from:
 **Jasmine A. McDonald, Parisa Tehranifar, Julie D. Flom et.al. Hair product use, age at menarche and mammographic breast density in multiethnic urban women. Environ Health. 2018; 17: 1.**
