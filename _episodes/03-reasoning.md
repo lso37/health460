@@ -162,7 +162,7 @@ keypoints:
 {:challenge}
 
 ## Here's how to fill in the sample size survey box
-[Sample Size Estimation](https://i.imgur.com/jIGgWUd.png)
+![Sample Size Estimation](https://i.imgur.com/jIGgWUd.png)
 
 ## Question three: How can I explain this pattern?
 - This is AKA abductive reasoning
