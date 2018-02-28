@@ -22,3 +22,7 @@ keypoints:
 - Write the methods section
 - Fill in the budget section
 - Fill in the Ethics application form
+
+## Start by reading some helpful guidance:
+
+[Guidance from the library](http://www.lps.canterbury.ac.nz/lsc/surviving.php)
