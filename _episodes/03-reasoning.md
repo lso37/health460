@@ -75,8 +75,11 @@ keypoints:
 > ## Challenge
 > Can you tell which of the two arguments is more believable?
 > **Argument 1**:
+>
 > P1: For each of the last ten years, we have experienced, using the averaged annual temperature trends, each subsequent year has been warmer than the previous one;
+>
 > C: Hence, it is likely that the next year will be hotter than this year.
+>
 > **Argument 2**
 > P1: Last year was hotter than the year before;
 > C: Hence, it is likely that the next year will be hotter than this year.
