@@ -26,3 +26,12 @@ keypoints:
 ## Start by reading some helpful guidance:
 
 [Guidance from the library](http://www.lps.canterbury.ac.nz/lsc/surviving.php)
+
+## Read an article and populate the spreadsheet
+- Many arguments per article.
+- Make an argument data bank for yourself
+- Use this data bank as you like
+
+Download this spreadsheet and save it on your drive:
+
+[Argument Bank](https://docs.google.com/spreadsheets/d/1EF6_INE1kVQy-rEAeNfQvgc-ixI-LQMv2nk21kaYF8A/edit?usp=sharing)

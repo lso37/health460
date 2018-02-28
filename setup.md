@@ -22,3 +22,7 @@ Paper:
 Mazumder, D. N. G., Haque, R., Ghosh, N., De, B. K., Santra, A., Chakraborty, D., & Smith, A. H. (1998). Arsenic levels in drinking water and the prevalence of skin lesions in West Bengal, India. International Journal of Epidemiology, 27(5), 871-877.
 
 [The paper for critique to download](http://bit.ly/2ovA2rg)
+
+Download the argument spreadsheet and save it to your hard drive:
+
+[Argument Data Spreadsheet](https://docs.google.com/spreadsheets/d/1EF6_INE1kVQy-rEAeNfQvgc-ixI-LQMv2nk21kaYF8A/edit?usp=sharing)
