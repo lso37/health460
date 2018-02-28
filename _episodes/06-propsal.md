@@ -1,5 +1,5 @@
 ---
-title: "Workshop 6: how to write a proposal"
+title: "Workshop 5: how to write a proposal"
 teaching: 10
 exercises: 20
 questions:
@@ -21,4 +21,4 @@ keypoints:
 - Write the literature review
 - Write the methods section
 - Fill in the budget section
-- Fill in the Ethics application form 
+- Fill in the Ethics application form

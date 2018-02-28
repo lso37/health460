@@ -1,5 +1,5 @@
 ---
-title: "Workshop 5: biases"
+title: "Workshop 4: biases"
 teaching: 10
 exercises: 20
 questions:
