@@ -35,3 +35,7 @@ keypoints:
 Download this spreadsheet and save it on your drive:
 
 [Argument Bank](https://docs.google.com/spreadsheets/d/1EF6_INE1kVQy-rEAeNfQvgc-ixI-LQMv2nk21kaYF8A/edit?usp=sharing)
+
+Download the worksheet for writing your proposal
+
+[Worksheet](https://docs.google.com/document/d/1bEAXiqcB30G6P-usY56fchtScUTmAIupBTLDV80b5Y8/edit?usp=sharing)

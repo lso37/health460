@@ -26,3 +26,7 @@ Mazumder, D. N. G., Haque, R., Ghosh, N., De, B. K., Santra, A., Chakraborty, D.
 Download the argument spreadsheet and save it to your hard drive:
 
 [Argument Data Spreadsheet](https://docs.google.com/spreadsheets/d/1EF6_INE1kVQy-rEAeNfQvgc-ixI-LQMv2nk21kaYF8A/edit?usp=sharing)
+
+Download the worksheet for writing your proposal
+
+[Worksheet for writing proposal](https://docs.google.com/document/d/1bEAXiqcB30G6P-usY56fchtScUTmAIupBTLDV80b5Y8/edit?usp=sharing)
