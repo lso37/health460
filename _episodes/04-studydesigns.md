@@ -1,5 +1,5 @@
 ---
-title: "Workshop 2: Epidemiological study designs"
+title: "Workshop 3: Epidemiological study designs"
 teaching: 10
 exercises: 20
 questions:
@@ -23,7 +23,7 @@ keypoints:
 4. Cohort studies
 5. Randomised Controlled Trials (Intervention studies)
 
-## Challenge 
+## Challenge
 In this challenge, read the following abstract(s) and identify what study design did the authors use to conduct their study. Write the study aim. Can you think of another way to study the same phenomenon? The article is from:
 **Jasmine A. McDonald, Parisa Tehranifar, Julie D. Flom et.al. Hair product use, age at menarche and mammographic breast density in multiethnic urban women. Environ Health. 2018; 17: 1.**
 
@@ -42,9 +42,9 @@ In this challenge, read the following abstract(s) and identify what study design
 
 ## Challenge 2
 
-> Aim: The average mercury load in children under 7-years old was determined in a populated but not overly industrial coastal area in China. 
-> Methods: 395 blood samples, 1072 urine samples, and 581 hair samples were collected from 1076 children, aged 0 to 6 years, from eight representative communities of Xiamen, China. Mercury levels in the samples were surveyed. Results: The 95% upper limits of mercury in blood, urine, and hair for the children were 2.30, 1.50 and 2100.00 μg/kg, respectively. Levels tended to increase with age. 
-> Correlation analyses showed that mercury levels in blood and urine correlated with those in hair (n = 132), r = 0.49, p < 0.0001 and r = 0.20, p = 0.0008; however, blood mercury levels did not correlate with urine levels (n = 284), r = 0.07, p = 0.35. 
+> Aim: The average mercury load in children under 7-years old was determined in a populated but not overly industrial coastal area in China.
+> Methods: 395 blood samples, 1072 urine samples, and 581 hair samples were collected from 1076 children, aged 0 to 6 years, from eight representative communities of Xiamen, China. Mercury levels in the samples were surveyed. Results: The 95% upper limits of mercury in blood, urine, and hair for the children were 2.30, 1.50 and 2100.00 μg/kg, respectively. Levels tended to increase with age.
+> Correlation analyses showed that mercury levels in blood and urine correlated with those in hair (n = 132), r = 0.49, p < 0.0001 and r = 0.20, p = 0.0008; however, blood mercury levels did not correlate with urine levels (n = 284), r = 0.07, p = 0.35.
 > Conclusions: Surveying the average mercury load in children 0 to 6 years, and the 95% upper limit value of mercury in their blood, urine, and hair should help guide risk assessment and health management for children.
 {:challenge}
 
