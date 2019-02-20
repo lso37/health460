@@ -12,9 +12,7 @@ keypoints:
 - "Biases are systematic errors in study designs"
 - "Biases should be eliminated at the stage of study designs"
 - "Biases will drive the results of studies either towards the null or in unpredictable directions"
-
 ---
-
 ## Biases in studies
 - Selection biases
 - Response Biases
